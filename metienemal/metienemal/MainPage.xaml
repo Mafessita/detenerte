@@ -4,17 +4,82 @@
              x:Class="metienemal.MainPage">
 
     <ScrollView>
+<<<<<<< HEAD
+
+=======
+>>>>>>> codigo/alex
         <VerticalStackLayout>
+            <Label Text="Welcome to MAUI .NET App" 
+               FontSize="24" 
+               HorizontalOptions="Center" 
+               VerticalOptions="StartAndExpand"/>
+
+<<<<<<< HEAD
             <Button Text="Press Me!" 
                 Clicked="OnButtonClicked" 
                 HorizontalOptions="Center" 
                 VerticalOptions="CenterAndExpand"/>
 
+<<<<<<< HEAD
             <Button Text="Ir a pagina"
         Clicked="OnNavigateButtonClicked"
         HorizontalOptions="Center"
         VerticalOptions="CenterAndExpand"/>
+=======
+      
+
+        <Button Text="New Button from Collaborator"
+                Clicked="OnNewButtonClicked"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"/>
+=======
+
+
+
+
+
+            <Button Text="Abrir sitio Web"
+        Clicked="OnOpenWebsiteButtonClicked"
+        HorizontalOptions="Center"
+        VerticalOptions="CenterAndExpand"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> codigo/alex
+>>>>>>> 068d7bda86985f9925b654dbe648f0a3cbe003f4
         </VerticalStackLayout>
+        
+        
+        
+        
+        
+        
+        
+<<<<<<< HEAD
+=======
+        
+        
+>>>>>>> codigo/alex
     </ScrollView>
 
 </ContentPage>
