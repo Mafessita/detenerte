@@ -2,7 +2,11 @@
 {
     public partial class MainPage : ContentPage
     {
+<<<<<<< Updated upstream
         
+=======
+  
+>>>>>>> Stashed changes
 
         public MainPage()
         {
