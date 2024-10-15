@@ -7,65 +7,31 @@
 
         <VerticalStackLayout>
             <Label Text="Welcome to MAUI .NET App" 
-               FontSize="24" 
-               HorizontalOptions="Center" 
-               VerticalOptions="StartAndExpand"/>
-
+                   FontSize="24" 
+                   HorizontalOptions="Center" 
+                   VerticalOptions="StartAndExpand"/>
             <Button Text="Press Me!" 
-                Clicked="OnButtonClicked" 
-                HorizontalOptions="Center" 
-                VerticalOptions="CenterAndExpand"/>
-
+                    Clicked="OnButtonClicked" 
+                    HorizontalOptions="Center" 
+                    VerticalOptions="CenterAndExpand"/>
             <Button Text="Ir a pagina"
-        Clicked="OnNavigateButtonClicked"
-        HorizontalOptions="Center"
-        VerticalOptions="CenterAndExpand"/>
-
-
+                    Clicked="OnNavigateButtonClicked"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"/>
             <Button Text="New Button from Collaborator"
-                Clicked="OnNewButtonClicked"
-                HorizontalOptions="Center"
-                VerticalOptions="CenterAndExpand"/>
-
+                    Clicked="OnNewButtonClicked"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"/>
             <Button Text="Abrir sitio Web"
-        Clicked="OnOpenWebsiteButtonClicked"
-        HorizontalOptions="Center"
-        VerticalOptions="CenterAndExpand"/>
+                    Clicked="OnOpenWebsiteButtonClicked"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"/>
             <Button Text="Change Background Color"
-        Clicked="OnChangeColorButtonClicked"
-        HorizontalOptions="Center"
-        VerticalOptions="CenterAndExpand"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                    Clicked="OnChangeColorButtonClicked"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"/>
         </VerticalStackLayout>
-        
-        
-        
-        
-        
-        
- 
+
     </ScrollView>
 
 </ContentPage>
