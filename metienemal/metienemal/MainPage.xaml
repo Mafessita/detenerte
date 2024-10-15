@@ -4,11 +4,19 @@
              x:Class="metienemal.MainPage">
 
     <ScrollView>
+<<<<<<< HEAD
         <VerticalStackLayout
           <Label Text="Welcome to MAUI .NET App" 
                FontSize="24" 
                HorizontalOptions="Center" 
                VerticalOptions="StartAndExpand"/>
+=======
+        <VerticalStackLayout>
+            <Button Text="Press Me!" 
+                Clicked="OnButtonClicked" 
+                HorizontalOptions="Center" 
+                VerticalOptions="CenterAndExpand"/>
+>>>>>>> 8b26a786951c12daaae54bcd3ef954773af223f1
         </VerticalStackLayout>
     </ScrollView>
 
