@@ -5,12 +5,15 @@
 
     <ScrollView>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <VerticalStackLayout
           <Label Text="Welcome to MAUI .NET App" 
                FontSize="24" 
                HorizontalOptions="Center" 
                VerticalOptions="StartAndExpand"/>
 =======
+=======
+>>>>>>> deb30bc980d41652500a3fb61616676462d5faf6
         <VerticalStackLayout>
             <Button Text="Press Me!" 
                 Clicked="OnButtonClicked" 
@@ -18,6 +21,12 @@
                 VerticalOptions="CenterAndExpand"/>
 >>>>>>> 8b26a786951c12daaae54bcd3ef954773af223f1
         </VerticalStackLayout>
+=======
+        <Button Text="New Button from Collaborator"
+                Clicked="OnNewButtonClicked"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"/>
+>>>>>>> Aporte/maria
     </ScrollView>
 
 </ContentPage>
