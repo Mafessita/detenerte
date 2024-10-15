@@ -4,12 +4,19 @@
              x:Class="metienemal.MainPage">
 
     <ScrollView>
+<<<<<<< HEAD
         <VerticalStackLayout>
             <Button Text="Press Me!" 
                 Clicked="OnButtonClicked" 
                 HorizontalOptions="Center" 
                 VerticalOptions="CenterAndExpand"/>
         </VerticalStackLayout>
+=======
+        <Button Text="New Button from Collaborator"
+                Clicked="OnNewButtonClicked"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"/>
+>>>>>>> Aporte/maria
     </ScrollView>
 
 </ContentPage>
