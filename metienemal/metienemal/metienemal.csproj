@@ -63,15 +63,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
-<<<<<<< HEAD
-=======
 	  <Compile Update="Pagina1.xaml.cs">
 	    <DependentUpon>Pagina1.xaml</DependentUpon>
 	  </Compile>
 	</ItemGroup>
 
 	<ItemGroup>
->>>>>>> codigo/alex
 	  <MauiXaml Update="Pagina1.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
